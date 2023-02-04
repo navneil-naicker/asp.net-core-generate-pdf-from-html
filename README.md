@@ -1,6 +1,6 @@
 ### Asp.Net Core: Generate PDF from HTML
 
-Install the package [Polybioz.HtmlRenderer.PdfSharp.Core](https://www.nuget.org/packages/Polybioz.HtmlRenderer.PdfSharp.Core/ "Polybioz.HtmlRenderer.PdfSharp.Core") from Nuget.
+Install package [Polybioz.HtmlRenderer.PdfSharp.Core](https://www.nuget.org/packages/Polybioz.HtmlRenderer.PdfSharp.Core/ "Polybioz.HtmlRenderer.PdfSharp.Core") from Nuget.
 
 ###### Basic Usage
 
